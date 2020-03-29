@@ -7,7 +7,7 @@ import './styles.scss'
 
 const Profile = () => {
   return (
-    <div className="profile container">
+    <div className="profile-container">
       <header>
         <img src={logoImg} alt="Be The Hero"/>
         <span>Bem vinda, APAD</span>
